@@ -1,0 +1,16 @@
+1. Change login method from get to session
+    (user register, need re)
+2. New page:
+    list all files
+    delete files
+    upload files
+    (share files to other)
+    log out
+    (delete user)
+3. New page:
+    open file
+    return to main page
+4. User file structure:
+    each user has a folder named as username, saving their upload
+    (How to share)
+    (register new user will create new folder, delete user will delete folder)
