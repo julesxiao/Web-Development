@@ -25,7 +25,10 @@
         visit 127.0.0.1:8000/admin using super user account
 
 * superuser
-    - Visit http://ec2-18-224-14-12.us-east-2.compute.amazonaws.com:8000/ . You can inspect the database by visiting http://ec2-18-224-14-12.us-east-2.compute.amazonaws.com:8000/admin/  using account (username:shuo, password:cse330) to login as superuser
+
+        Visit http://ec2-18-224-14-12.us-east-2.compute.amazonaws.com:8000/ . 
+        You can inspect the database by visiting http://ec2-18-224-14-12.us-east-2.compute.amazonaws.com:8000/admin/  
+        using account (username:shuo, password:cse330) to login as superuser
 
 ### Functions
         
