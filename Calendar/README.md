@@ -1,8 +1,10 @@
 ## CALENDAR
 ### Intro
-- A simple calendar that allows users to add and remove events dynamically.
+- This project would create a calendar that allows users to add and remove events dynamically using **JavaScript**
 
 - In this project **JavaScript** is used to to process user interactions at the web browser, without ever refreshing the browser after the initial web page load. **AJAX** is used to run server-side scripts that query the database to save and retrieve information, including user accounts and events.
+
+- Example: https://calendar.google.com/
 
 ### Home page  
     http://ec2-18-222-223-208.us-east-2.compute.amazonaws.com/~shuo/module5/group/calendar.html
