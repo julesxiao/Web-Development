@@ -29,5 +29,3 @@
     - [x] user can leave messages under posts
     - [x] user can search according to each item's title
     - [x] user can filter(sort) through items(example: distance, price, publish dates, fineness)   
-
-Approved by Nikash Taskar
