@@ -1,3 +1,4 @@
+## MULTI-ROOM CHAT SERVER
 ### Intro
 * In Module 6 you will create a multi-room chat server using Node.JS and Socket.IO. This project must be completed using Node.JS.
 
