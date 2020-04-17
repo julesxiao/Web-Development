@@ -1,5 +1,6 @@
+## SECOND-HAND TRADING WEBSITE
 ### Intro
-* This is a second-hand trading website. Framework: django, vue.js
+* Framework: django, vue.js
 
 ### Instructions  
 * python3 required
